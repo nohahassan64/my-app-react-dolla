@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-app-react-dolla/static/css/main.3b39a6dd.chunk.css",
+    "main.js": "/my-app-react-dolla/static/js/main.1db54548.chunk.js",
+    "main.js.map": "/my-app-react-dolla/static/js/main.1db54548.chunk.js.map",
+    "runtime-main.js": "/my-app-react-dolla/static/js/runtime-main.181ec6bc.js",
+    "runtime-main.js.map": "/my-app-react-dolla/static/js/runtime-main.181ec6bc.js.map",
+    "static/js/2.fdee60ce.chunk.js": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js",
+    "static/js/2.fdee60ce.chunk.js.map": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js.map",
+    "index.html": "/my-app-react-dolla/index.html",
+    "static/css/main.3b39a6dd.chunk.css.map": "/my-app-react-dolla/static/css/main.3b39a6dd.chunk.css.map",
+    "static/js/2.fdee60ce.chunk.js.LICENSE.txt": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js.LICENSE.txt",
+    "static/media/01.svg": "/my-app-react-dolla/static/media/01.198c8835.svg",
+    "static/media/02.svg": "/my-app-react-dolla/static/media/02.5f11287c.svg",
+    "static/media/03.svg": "/my-app-react-dolla/static/media/03.9d744b3b.svg",
+    "static/media/04.d908632f.svg": "/my-app-react-dolla/static/media/04.d908632f.svg",
+    "static/media/05.2fa90164.svg": "/my-app-react-dolla/static/media/05.2fa90164.svg",
+    "static/media/06.0f97cb94.svg": "/my-app-react-dolla/static/media/06.0f97cb94.svg",
+    "static/media/video.d48e2181.mp4": "/my-app-react-dolla/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.181ec6bc.js",
+    "static/js/2.fdee60ce.chunk.js",
+    "static/css/main.3b39a6dd.chunk.css",
+    "static/js/main.1db54548.chunk.js"
+  ]
+}
