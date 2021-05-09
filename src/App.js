@@ -7,10 +7,12 @@ import SingInPage from './Pages/singin';
 function App() {
   return (
     <BrowserRouter>
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route  path="/sing-in" component={SingInPage} /> 
-      </Switch>
+      <div>
+        <Switch>
+            <Route exact path="/" component={Home} />
+            <Route  path="/sing-in" component={SingInPage} /> 
+          </Switch>
+      </div>
     </BrowserRouter>
   );
 }
