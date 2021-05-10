@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-app-react-dolla/static/css/main.3b39a6dd.chunk.css",
-    "main.js": "/my-app-react-dolla/static/js/main.1db54548.chunk.js",
-    "main.js.map": "/my-app-react-dolla/static/js/main.1db54548.chunk.js.map",
+    "main.css": "/my-app-react-dolla/static/css/main.3bae632a.chunk.css",
+    "main.js": "/my-app-react-dolla/static/js/main.69867e0f.chunk.js",
+    "main.js.map": "/my-app-react-dolla/static/js/main.69867e0f.chunk.js.map",
     "runtime-main.js": "/my-app-react-dolla/static/js/runtime-main.181ec6bc.js",
     "runtime-main.js.map": "/my-app-react-dolla/static/js/runtime-main.181ec6bc.js.map",
     "static/js/2.fdee60ce.chunk.js": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js",
     "static/js/2.fdee60ce.chunk.js.map": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js.map",
     "index.html": "/my-app-react-dolla/index.html",
-    "static/css/main.3b39a6dd.chunk.css.map": "/my-app-react-dolla/static/css/main.3b39a6dd.chunk.css.map",
+    "static/css/main.3bae632a.chunk.css.map": "/my-app-react-dolla/static/css/main.3bae632a.chunk.css.map",
     "static/js/2.fdee60ce.chunk.js.LICENSE.txt": "/my-app-react-dolla/static/js/2.fdee60ce.chunk.js.LICENSE.txt",
     "static/media/01.svg": "/my-app-react-dolla/static/media/01.198c8835.svg",
     "static/media/02.svg": "/my-app-react-dolla/static/media/02.5f11287c.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.181ec6bc.js",
     "static/js/2.fdee60ce.chunk.js",
-    "static/css/main.3b39a6dd.chunk.css",
-    "static/js/main.1db54548.chunk.js"
+    "static/css/main.3bae632a.chunk.css",
+    "static/js/main.69867e0f.chunk.js"
   ]
 }
