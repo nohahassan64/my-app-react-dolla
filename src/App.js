@@ -9,8 +9,7 @@ function App() {
     <BrowserRouter>
       <div>
         <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/sing-in" component={SingInPage} /> 
+           gggggggggggggggggggggggggg
           </Switch>
       </div>
     </BrowserRouter>
